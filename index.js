@@ -10,3 +10,4 @@ const myAge = 20;
 
 console.log(myAge);
 let selectedColor = null;
+console.log(selectedColor);
